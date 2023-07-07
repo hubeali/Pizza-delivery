@@ -1,0 +1,522 @@
+
+/*Header*/
+
+.nav-item {
+
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.search-box {
+
+
+    top: 483px;
+
+
+} 
+
+.search-1 {
+    border: none;
+}
+
+.line {
+
+
+    top: 25px;
+    left: 270px;
+    height: 32px;
+    position: absolute;
+}
+
+.box {
+
+
+    top: 2px;
+    right: 0px;
+    position: absolute;
+}
+
+/* Delivery boy col-1 */
+.container-one{
+    margin-bottom: 60px;
+}
+
+.btn-bike {
+
+    padding: 14px 100px 14px 20px;
+    background: #F5DDC4;
+    border: none;
+    color: #F48E28;
+
+
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+
+
+}
+
+.bikeimg {
+
+    left: 165px;
+
+
+
+}
+
+.fastest {
+    color: #000000;
+    font-size: 65px;
+    font-weight: 700;
+
+}
+
+.delivery {
+    color: #000000;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.your {
+    color: #F48E28;
+    font-size: 65px;
+    font-weight: 650;
+}
+
+.lorem {
+
+
+    font-size: 12px;
+    font-weight: 500;
+   
+    letter-spacing: 0em;
+    
+
+}
+
+.orderbutton {
+    color: white;
+    background: linear-gradient(180deg, #EFAB68 0%, #F48E28 100%);
+
+    border: none;
+    border-radius: 8px;
+    padding: 10px 30px 10px 30px;
+    margin-top: 30px;
+}
+
+
+
+/*col-2*/
+
+
+.polygon {
+    position: relative;
+     bottom: 273px; 
+  
+    width: 50px;
+    left: 200px; 
+}
+
+
+.rope {
+    position: relative;
+    bottom: 218px; 
+  
+    height: 110px;
+    right: 48px; 
+
+
+}
+
+/* col-3  */
+
+.bgpic {
+    background-color: rgba(222, 220, 220, 0.4) !important;
+    border-radius: 20px;
+    height: 640px;
+    width: 380px;
+    left: 60px;
+    position: relative;
+  
+
+}
+
+
+
+.part1 {
+    right: 100px !important;
+    top: 100px !important;
+    border: none;
+    align-items: center;
+
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.part2 {
+    right: 70px !important;
+    top: 100px !important;
+    border: none;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+   left: 120px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.part3 {
+    right: 280px !important;
+    top: 370px !important;
+    
+    border: none;
+    align-items: center;
+
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    bottom: -220px;
+    padding: 0px;
+    margin: 0px;
+
+  
+}
+
+
+.part4 {
+    right: 60px !important;
+    top: 370px !important;
+   
+    border: none;
+    align-items: center;
+
+    text-align: center;
+    width: 200px;
+    height: 200px;
+
+
+padding: 0px;
+margin: 0px;
+}
+
+.dollor-color {
+    color: rgb(246, 63, 63);
+}
+
+/* phonetime gps start */
+
+
+
+.bodr {
+    border-left: solid 1px;
+}
+/* phone time gps end  */
+/* most popular items start*/
+
+.product {
+    color: rgba(244, 142, 40, 1);
+    margin-top: 50px;
+
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+
+
+
+}
+
+
+.most {
+    margin-top: -20px;
+    font-size: 30px;
+    font-weight: 1000;
+
+}
+
+/* most popular items end */
+
+/* CARD Image 1 to 3 start */
+
+.image {
+
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.btn-color {
+    background: rgba(244, 142, 40, 1);
+    border: none;
+    color: white;
+
+}
+
+.text-card {
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+
+
+/* CARD Image 1 to 3 end*/
+
+/* btn image  start*/
+
+.btn-1{
+    padding-right: 60px;
+    left: 50px;
+}
+
+.icon-1{
+    top: -7px;
+}
+/* btn image end */
+
+
+/* knife section start */
+
+.iconone{
+    top: 117px;
+    right: 155px;
+    width: 50px;
+}
+.p-1{
+font-size: 18px;
+font-weight: 500;
+Line-height: 22px;
+
+}
+.quality{
+    margin-top: -20px;
+    font-size: 25px;
+    font-weight: 1000;
+
+}
+
+
+/* knife section end */
+
+/* rope section start */
+
+.chose{
+    position: relative;
+font-size: 20px;
+top: 3px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+
+
+}
+
+.leftrope1{
+    position:absolute;
+left: 88px;
+bottom: 7%;
+width: 385px;
+}
+
+
+ 
+    .prepare{
+        margin-top: -20px;
+        font-size: 25px;
+        font-weight: 1000;
+    }
+
+
+
+    .deliver{
+   
+        position: relative;
+        font-size: 20px;
+        
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+top: -40px;
+        left: 294px;
+    }
+
+    .rightrope1{
+        
+            position:absolute;
+        left: -90px;
+    top: -195px;
+        width: 380px;
+        }   
+    .p-4{
+        font-size: 18px;
+        font-weight: 500;
+        Line-height: 22px;
+        top: 200px;
+   
+        
+        }
+        .shopbox{
+            left: 80px;
+            width: 250px;
+            
+      
+        }
+        .food-img{
+            margin-left: 80px;
+            width: 250px;
+            
+        }
+        
+/* rope section end */ 
+
+.para_last{
+    text-align: right;
+
+font-weight: 500;
+
+
+}
+
+
+.para_last1{
+   
+
+font-weight: 500;
+
+
+}
+
+.shopbox{
+    position:relative;
+    bottom:20px;
+
+}
+/* teeth-man section start */
+.cd-1{
+    border: none;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.1);
+
+}
+.jhone{
+
+
+font-size: 20px;
+font-weight: 700;
+
+
+
+}
+    
+
+.ceo{
+
+font-size: 13px;
+font-weight: 400;
+line-height: 16px;
+
+
+
+}
+
+.para-2last{
+    text-align: center;
+    top: -140px;
+    font-weight: 500;
+}
+
+
+
+/* teeth-man section end */
+
+
+
+/*  single-burger section start  */
+
+
+.card-background{
+    background: rgba(0, 0, 0, 1);
+   
+
+}
+
+.single-b{
+
+    width: 450px;
+    top: -70px;
+}
+
+
+.bgc{
+    background: rgba(244, 142, 40, 1);
+    right: 170px;
+  
+    border: none;
+
+}
+.input-last{
+
+font-size: 15px;
+font-weight: 500;
+    border: none;
+    width: 400px;
+    color: rgba(182, 182, 182, 1);
+
+}
+/*  single-burger section end */
+
+
+/* footer section start */
+ .bg-footer{
+    background: rgba(250, 250, 255, 1);
+
+}
+
+.dolor{
+    color: rgba(182, 182, 182, 1);
+
+
+} 
+
+ .one{
+    color: rgba(182, 182, 182, 1);
+   line-height: 20px;
+
+
+} 
+
+.headingone{
+bottom: 15px;
+font-size: 20px;
+font-weight: 700;
+;
+position: relative; }
+
+
+.last-input{
+     background-color: white; 
+    border: none;
+    top: 20px;
+
+
+font-size: 13px;
+font-weight: 400;
+width: 240px;
+
+}
+
+.last-icon{
+    left: 192px;
+   bottom: 7px;
+ 
+   
+}
+
+
+/* footer section end */
